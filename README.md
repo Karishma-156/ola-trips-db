@@ -65,17 +65,39 @@ ola-trips-db/
 
 ---
 
-## 📦 Bonus (Optional)
+## OUTPUT:
 
-Create a helper script: `load_all.sql`
+### trips.sql:
 
-```sql
-SOURCE trips.sql;
-SOURCE trips_details1.sql;
-SOURCE trips_details2.sql;
-SOURCE trips_details3.sql;
-SOURCE trips_details4.sql;
-SOURCE duration.sql;
-SOURCE loc.sql;
-SOURCE payment.sql;
+![MySQL Output](https://github.com/Karishma-156/ola-trips-db/blob/main/tripspic.png)
+
+### trips_details4.sql:
+
+![MySQL Output](https://github.com/Karishma-156/ola-trips-db/blob/main/trips_details4pic.png)
+
+### payment -> trips:
+
+![MySQL Output](https://github.com/Karishma-156/ola-trips-db/blob/main/payment1pic.png)
+
+### payment -> loc:
+
+![MySQL Output](https://github.com/Karishma-156/ola-trips-db/blob/main/payment2pic.png)
+
+### payment -> duration, payment:
+
+![MySQL Output](https://github.com/Karishma-156/ola-trips-db/blob/main/payment3pic.png)
+
+### DATA ANALYSIS:
+
+![MySQL Output](https://github.com/Karishma-156/ola-trips-db/blob/main/1stpicanalysis.png)
+
+![MySQL Output](https://github.com/Karishma-156/ola-trips-db/blob/main/2ndpicanalysis.png)
+
+![MySQL Output](https://github.com/Karishma-156/ola-trips-db/blob/main/thirdanalysis.png)
+
+![MySQL Output](https://github.com/Karishma-156/ola-trips-db/blob/main/2ndLastpicanalysis.png)
+
+![MySQL Output](https://github.com/Karishma-156/ola-trips-db/blob/main/lastanalysis.png)
+
+
 
