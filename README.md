@@ -6,6 +6,7 @@ This project contains a comprehensive MySQL-based analysis of a ride-hailing dat
 
 ## 📁 Project Structure
 
+```
 ola-trips-db/
 │
 ├── trips.sql # Trip table schema and data
@@ -18,7 +19,7 @@ ola-trips-db/
 ├── loc.sql # Location-based analysis
 ├── payment.sql # Payment method insights
 ├── README.md # Project overview and instructions
-
+```
 
 ---
 
