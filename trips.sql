@@ -989,7 +989,7 @@ CREATE TABLE  trips(tripid integer,faremethod integer,fare integer,loc_from inte
 
 select * from trips ;
 
--- See MySQL output here: ![output](https://github.com/Karishma-156/ola-trips-db/blob/main/tripspic.sql.png)
+-- See MySQL output here: ![output](https://github.com/Karishma-156/ola-trips-db/blob/main/tripspic.png)
 
 
 
