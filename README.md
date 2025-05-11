@@ -95,7 +95,7 @@ ola-trips-db/
 
 ![MySQL Output](https://github.com/Karishma-156/ola-trips-db/blob/main/thirdanalysis.png)
 
-![MySQL Output](https://github.com/Karishma-156/ola-trips-db/blob/main/2ndLastpicanalysis.png)
+![MySQL Output](https://github.com/Karishma-156/ola-trips-db/blob/main/2ndLastanalysis.png)
 
 ![MySQL Output](https://github.com/Karishma-156/ola-trips-db/blob/main/lastanalysis.png)
 
