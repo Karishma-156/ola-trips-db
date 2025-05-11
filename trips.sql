@@ -989,7 +989,6 @@ CREATE TABLE  trips(tripid integer,faremethod integer,fare integer,loc_from inte
 
 select * from trips ;
 
-See MySQL output here: 
 
 
 
